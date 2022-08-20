@@ -1,0 +1,20 @@
+.img-thumbnail{
+    border-radius :50% ;
+    width: 300px;
+    height: 300px;  
+    
+}
+.contenu{
+    border: 3px solid palevioletred;
+    border-radius : 15px;
+        margin-left: 30px;
+        margin-top: 20px;
+        padding-left: 20px;
+        padding-top: 10px;
+        color: purple;
+        font-size: 90px;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        background-color:pink;
+       
+
+}
